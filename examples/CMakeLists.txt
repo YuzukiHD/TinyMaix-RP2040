@@ -1,0 +1,5 @@
+add_subdirectory(cifar10)
+add_subdirectory(kws)
+add_subdirectory(mbnet)
+add_subdirectory(mnist)
+add_subdirectory(vww)
